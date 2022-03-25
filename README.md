@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LakshRustagi
 - 👀 I’m not interested in dev.
 - 🌱 I’m currently learning dsa
-- 💞️ I’m looking to collaborate on leetcode.
+- 💞️ I’m looking to collaborate on nothing.
 - 📫 How to reach me ...
 
 <!---
