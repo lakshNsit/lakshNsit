@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LakshRustagi
-- 👀 I’m not interested in dev.
-- 🌱 I’m currently learning dsa
-- 💞️ I’m looking to collaborate on nothing.
+- 👀 I’m here to hone my Skills.
+- 🌱 I’m currently learning dsa and the art of Problem Solving.
 - 📫 How to reach me ...
 
 <!---
